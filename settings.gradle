@@ -1,1 +1,1 @@
-include ':myfirstapp', ':differentlanguages'
+include ':myfirstapp', ':differentdevices'

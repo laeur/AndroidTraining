@@ -1,4 +1,4 @@
-package com.laeur.differentlanguages;
+package com.laeur.differentdevices;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.laeur.differentlanguages;
+package com.laeur.differentdevices;
 
 import org.junit.Test;
 

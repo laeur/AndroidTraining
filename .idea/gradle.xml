@@ -8,7 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/differentlanguages" />
+            <option value="$PROJECT_DIR$/differentdevices" />
             <option value="$PROJECT_DIR$/myfirstapp" />
           </set>
         </option>

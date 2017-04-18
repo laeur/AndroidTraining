@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DifferentDevices</string>
+    <string name="country">Country:</string>
+    <string name="captial">Capital:</string>
+    <string name="info">Info:</string>
+    <string name="unknown">Unknown</string>
+</resources>
